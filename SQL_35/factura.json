@@ -1,0 +1,18 @@
+{
+	"numeroFactura": "F0026",
+	"idCliente": 17,
+	"lineasFactura": [
+		{
+			"idProducto": 1,
+			"Cantidad": 3
+		},
+		{
+			"idProducto": 2,
+			"Cantidad": 2
+		},
+		{
+			"idProducto": 3,
+			"Cantidad": 1
+		}
+	]
+}
